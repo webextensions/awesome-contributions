@@ -1,4 +1,4 @@
-# awesome-contributions
+# distributed-open-source-contributions
 This document describes a distributed revenue sharing model for open source contributions.
 
 # Problem statement
